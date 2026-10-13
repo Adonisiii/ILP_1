@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\ILP1\\Backend\\Domain\\Domain.csproj": {}
+    "C:\\Users\\adoahmeti\\Desktop\\ILP11\\ILP_1\\Backend\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\ILP1\\Backend\\Domain\\Domain.csproj": {
+    "C:\\Users\\adoahmeti\\Desktop\\ILP11\\ILP_1\\Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ILP1\\Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\adoahmeti\\Desktop\\ILP11\\ILP_1\\Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\ILP1\\Backend\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\ILP1\\Backend\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\adoahmeti\\Desktop\\ILP11\\ILP_1\\Backend\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\adoahmeti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adoahmeti\\Desktop\\ILP11\\ILP_1\\Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\adoahmeti\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
